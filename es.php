@@ -1,0 +1,83 @@
+<?php
+$limit_create_mode 		= false;
+$limit_create_count 	= 9999;
+
+/** redirect or filename **/
+$_CHAT_FILE		= "chat.php";
+$_HOME_FILE	 	= "home.php";
+$_LOGIN_FILE	= "login.php";
+$_LOGOUT_FILE	= "logout.php";
+
+/** LANGUAGE **/
+$_L_HOME	= "Inicio";
+$_L_PRIME	= "Prime";
+$_L_PROFILE	= "Perfil";
+$_L_CREATE_SERVER	= "Crear servidor";
+$_L_MY_SERVERS	= "Mis servidores";
+$_L_DOWNLOAD	= "Descargar";
+$_L_STAFF_AREA	= "Area de Staff";
+$_L_LOGOUT	= "Cerrar Sesión";
+$_L_NOOST_PRIME	= "Noost Prime";
+$_L_NOOST_PRIME_ACTIVATED	= "Prime: Activado";
+$_L_NOOST_PRIME_DISABLED	= "Prime: Desactivado";
+$_L_NOOST_PRIME_BNPF	= "Compra Noost Prime por $3USD/mes";
+$_L_NOOST_PRIME_YAY_ACTIVATED	= "Yay! Tienes una suscripción activa de Noost Prime";
+$_L_NOOST_PRIME_WHAT_CAN_I_DO	= "¿Qué puedo hacer?";
+$_L_NOOST_PRIME_WHAT_I_WILL_GET	= "¿Qué obtendré?";
+$_L_NOOST_PRIME_F1	= "Puedes pedir una invitación personalizada para tu servidor";
+$_L_NOOST_PRIME_F2	= "Puedes tener emojis/emotes (Pronto)";
+$_L_NOOST_PRIME_F3	= "Oh, y tienes una insignia muy cool!";
+$_L_NOOST_PRIME_F3_ALT	= "Oh, y puedes conseguir una insignia muy cool!";
+$_L_NOOST_PRIME_BUY_NOW	= "Comprar ahora";
+$_L_SERVER	= "Servidor";
+$_L_SERVER_ID	= "ID de Servidor:";
+$_L_SERVER_DESCRIPTION	= "Descripción del servidor:";
+$_L_SERVER_SETTINGS	= "Ajustes del servidor";
+$_L_JOIN_REQUESTS	= "Peticiones";
+$_L_MESSAGE	= "Enviar mensaje a";
+$_L_INVITED_TO_JOIN	= "Fuiste invitado a unirte a";
+$_L_REQUEST_TO_JOIN	= "Petición para unirse";
+$_L_JOIN	= "Unirte";
+$_L_PENDING_APPROVAL	= "Aprobación pendiente!";
+$_L_REQUESTING	= "Enviando...";
+$_L_MEMBERS	= "Usuarios";
+$_L_WELCOME_TO	= "Bienvenido a";
+$_L_ACCOUNT	= "Cuenta";
+$_L_ACCOUNT_CHANGE_PROFILE_PICTURE	= "Cambiar foto de perfil";
+$_L_ACCOUNT_IMAGE_URL	= "URL de imágen";
+$_L_CHANGE	= "Cambiar";
+$_L_ACCOUNT_CHANGE_NAME	= "Cambiar nombre";
+$_L_ACCOUNT_USERNAME	= "Nombre de usuario";
+$_L_ACCOUNT_FIRST_NAME	= "Nombre";
+$_L_ACCOUNT_LAST_NAME	= "Apellido";
+$_L_ACCOUNT_CHANGE_PASSWORD	= "Cambiar contraseña";
+$_L_ACCOUNT_CURRENT_PASSWORD	= "Contraseña actual";
+$_L_ACCOUNT_NEW_PASSWORD	= "Nueva contraseña";
+$_L_SERVER_NAME	= "Nombre de servidor";
+$_L_SERVER_DESCRIPTION	= "Descripción de servidor";
+$_L_WELCOME	= "Welcome,";
+$_L_NSC	= 'Wow, this is empty! <a href="create_room.php" class="btn btn-danger">Create a new server</a>';
+$_L_NSJ	= 'Wow, this is empty! Wanna join <a href="https://i.noost.xyz/Noost" class="btn btn-danger">Noost Official Server</a>?';
+$_L_DESCRIPTION	= "Description:";
+$_L_SERVERS_YOU_JOINED	= "Servers you joined";
+$_L_REDIRECT_TO_SERVER	= "Redirect to Server";
+$_L_DELETE_SERVER	= "Delete Server";
+$_L_EDIT_PROFILE	= "Edit Profile";
+$_L_REGISTER	= "Register";
+$_L_PASSWORD	= "Password";
+$_L_RE_PASSWORD	= "Re-Password";
+$_L_AHA	= "Do you already have an account?";
+$_L_DHA	= "Don't have an account?";
+$_L_REGISTER_NOW	= "Register now";
+$_L_LOGIN_NOW	= "Login now";
+$_L_LOGIN	= "Login";
+$_L_LOGIN_TO_NOOST	= "Login to Noost";
+$_L_CSNAD	= "Change server name & description";
+$_L_MEMBERS_MANAGEMENT	= "Members management";
+$_L_JOINED_AT	= "Joined at";
+$_L_KICK_USER	= "Kick user";
+$_L_USER_SENT_REQUEST	= "sent a request to join the server";
+$_L_ACCEPT	= "Kick user";
+$_L_DENY	= "Kick user";
+
+?>
